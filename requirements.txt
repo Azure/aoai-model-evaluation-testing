@@ -1,0 +1,5 @@
+azure-ai-evaluation
+promptflow-azure
+promptflow-tracing
+promptflow-evals
+azure-identity
