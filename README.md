@@ -42,7 +42,7 @@ conda activate model_eval
 To create one using python in powershell, run the following command in powershell terminal
 ```
 python -m venv model_eval
-.\model\Scripts\Activate.ps1
+.\model_eval\Scripts\Activate.ps1
 ```
 
 ### Building and running
