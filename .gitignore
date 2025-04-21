@@ -1,5 +1,5 @@
 # ignore python environment directory
-aoai_eval/
+model_eval/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

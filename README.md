@@ -36,8 +36,13 @@ Explore Azure AI Evaluation SDK as demonstrated in the Evaluate Model Endpoints 
 
 Create a virtual Python environment of you choice. To create one using conda, run the following command
 ```
-conda create -n model-evaluation
-conda activate model-evaluation
+conda create -n model_eval
+conda activate model_eval
+```
+To create one using python in powershell, run the following command in powershell terminal
+```
+python -m venv model_eval
+.\model\Scripts\Activate.ps1
 ```
 
 ### Building and running
